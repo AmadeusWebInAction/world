@@ -1,0 +1,13 @@
+#key	value
+name	AmadeusWeb.world
+byline	A New World Union
+safeName	amadeuswebworld
+version	id: 1.1, date: 11 Mar 2025
+footer-message	Building a world, day by day, that cares.
+siteMenuName	AW World
+scaffold	sitemap
+sections	explore: movements+voices, pulse
+sections_todo	houses, our: causes
+local-url	http://localhost/awe/world/
+live-url	https://amadeusweb.world/
+year	2025
