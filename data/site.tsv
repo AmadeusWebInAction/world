@@ -4,7 +4,7 @@ byline	A New World Union
 safeName	amadeuswebworld
 footer-message	Building a world, day by day, that cares.
 siteMenuName	AW World
-scaffold	sitemap
+scaffold	links, search, sitemap
 sections	explore: movements+voices, pulse
 sections_todo	houses, our: causes
 local-url	http://localhost/awe/world/
