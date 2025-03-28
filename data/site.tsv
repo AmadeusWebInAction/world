@@ -5,7 +5,7 @@ safeName	amadeuswebworld
 footer-message	Building a world, day by day, that cares.
 siteMenuName	AW World
 scaffold	links, search, sitemap
-sections	explore: movements+voices, pulse
+sections	social, explore: organizations+movements, pulse
 sections_todo	houses, our: causes
 local-url	http://localhost/awe/world/
 live-url	https://amadeusweb.world/

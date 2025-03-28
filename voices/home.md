@@ -1,1 +1,0 @@
-Authors will be able to share updates **while** writing books
