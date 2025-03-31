@@ -1,12 +1,12 @@
 #key	value
-name	AmadeusWeb.world
+name	The AmadeusWeb Network
 byline	A New World Union
 safeName	amadeuswebworld
 footer-message	Building a world, day by day, that cares.
 siteMenuName	AW World
 scaffold	links, search, sitemap
-sections	social, explore: organizations+movements, pulse
-sections_todo	houses, our: causes
+sections	social, lightworkers, organizations, movements
+sections_todo	houses, pulse, our: causes
 local-url	http://localhost/awe/world/
 live-url	https://amadeusweb.world/
 year	2025
