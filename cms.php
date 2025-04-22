@@ -2,8 +2,14 @@
 variables([
 	'link-to-site-home' => true,
 	'link-to-section-home' => true,
-	
 ]);
+
+function site_before_render() {
+	if (DEFINED('NODEPATH'))
+		variable('submenu-at-node', true);
+
+	if (function_exists('node_before_render')) node_before_render();
+}
 
 function enrichThemeVars($vars, $what) {
 	if ($what == 'header' && variable('node') == 'index') {

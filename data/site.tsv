@@ -4,9 +4,9 @@ byline	A New World Union
 safeName	amadeuswebworld
 footer-message	Building a world, day by day, that cares.
 siteMenuName	AW World
-scaffold	links, search, sitemap
-sections	social, lightworkers, organizations, movements
-sections_todo	houses, pulse, our: causes
+scaffold_no	links, search, sitemap
+sections	integral-living, more: people+organizations
+sections_no	movements, social+teams+
 local-url	http://localhost/awe/world/
 live-url	https://amadeusweb.world/
 year	2025
