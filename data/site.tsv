@@ -5,8 +5,7 @@ safeName	amadeuswebworld
 footer-message	Building a world, day by day, that cares.
 siteMenuName	AW World
 scaffold_no	links, search, sitemap
-sections	integral-living, more: people+organizations
-sections_no	movements, social+teams+
+sections	initiatives, integral-living, more: people+teams+organizations
 local-url	http://localhost/awe/world/
 live-url	https://amadeusweb.world/
 year	2025
